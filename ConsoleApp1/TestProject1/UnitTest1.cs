@@ -10,7 +10,7 @@ namespace TestProject1
         {
         }
 
-        /*[Test]
+        [Test]
         public void Test1()
         {
             int a = 2;
@@ -31,6 +31,6 @@ namespace TestProject1
         {
             Assert.AreEqual(ConsoleApp1.Program.summa(6, 6), 12);
         }
-        */
+        
     }
 }
